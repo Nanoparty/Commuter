@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SimpleTown/DemoScene/DrivingSim.unity
+  isLoaded: 1
+  isActive: 1
